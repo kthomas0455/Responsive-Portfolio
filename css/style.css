@@ -262,31 +262,28 @@ input[type=submit] {
   float: left;
   margin-left: 200px;
   }
+  
   .main-section {
     max-width: 100%;
   }
 
   .floatsection {
-  
   max-width: 100%;
-
   text-align: center;
   }
-
 }
 
 @media screen and (max-width: 640px){
 
   nav  {
-  
   margin-left: 120px;
   }
 
   .main-section {
     max-width: 100%;
     text-align: center;
-
   }
+  
   #myname {
     margin-left: 150px;
   }
